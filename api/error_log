@@ -1,0 +1,80 @@
+[24-Aug-2024 16:25:41 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')),(.()'")' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:41 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''nnqLeL<'">rUdBtg' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:42 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 2289=5100 AND (1065=1065' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:43 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 8860=8860 AND (6549=6549' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:47 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 1453=4299 AND ('sbOd'='sbOd' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:48 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 8860=8860 AND ('pUQy'='pUQy' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:48 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 4973=9021 AND 'CNfF'='CNfF' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:25:48 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 8860=8860 AND 'Kpdv'='Kpdv' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:35:59 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''",(...,,)' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:35:59 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''GdCrzy<'">IlEhsH' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:00 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 3608=2002 AND (5546=5546' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:01 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 8326=8326 AND (3332=3332' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:07 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 3361=9149 AND ('SuuM'='SuuM' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:07 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 8326=8326 AND ('wSdm'='wSdm' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:07 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 3296=6264 AND 'nYHG'='nYHG' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
+[24-Aug-2024 16:36:07 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 8326=8326 AND 'DLKp'='DLKp' at line 1 in /home1/avitrave/public_html/api/index.php:34
+Stack trace:
+#0 /home1/avitrave/public_html/api/index.php(34): mysqli->prepare('UPDATE  users S...')
+#1 {main}
+  thrown in /home1/avitrave/public_html/api/index.php on line 34
